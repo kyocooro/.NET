@@ -1,0 +1,11 @@
+D:\NET Projects\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.dll
+D:\NET Projects\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.pdb
+D:\NET Projects\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.dll.manifest
+D:\NET Projects\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.vsto
+D:\NET Projects\ExcelAddIn1\ExcelAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\NET Projects\ExcelAddIn1\ExcelAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\NET Projects\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Properties.Resources.resources
+D:\NET Projects\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.csproj.GenerateResource.Cache
+D:\NET Projects\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.dll
+D:\NET Projects\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.pdb
+D:\NET Projects\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Ribbon1.resources

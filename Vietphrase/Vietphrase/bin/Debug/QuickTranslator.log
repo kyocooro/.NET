@@ -1,0 +1,9 @@
+﻿7/24/2014 12:47:33 AM: Exception of type 'System.OutOfMemoryException' was thrown.
+System.OutOfMemoryException
+   at System.String.GetStringForStringBuilder(String value, Int32 startIndex, Int32 length, Int32 capacity)
+   at System.Text.StringBuilder.Append(Char value)
+   at TranslatorEngine.TranslatorEngine.ChineseToHanViet(String chinese, CharRange[]& chineseHanVietMappingArray)
+   at QuickTranslator.MainForm.<>c__DisplayClass1.<translateHanViet>b__0()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()

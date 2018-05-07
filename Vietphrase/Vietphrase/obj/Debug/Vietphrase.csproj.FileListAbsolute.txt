@@ -1,0 +1,10 @@
+D:\NET Projects\Vietphrase\Vietphrase\bin\Debug\Vietphrase.exe.config
+D:\NET Projects\Vietphrase\Vietphrase\bin\Debug\Vietphrase.exe
+D:\NET Projects\Vietphrase\Vietphrase\bin\Debug\Vietphrase.pdb
+D:\NET Projects\Vietphrase\Vietphrase\bin\Debug\TranslatorEngine.dll
+D:\NET Projects\Vietphrase\Vietphrase\obj\Debug\Vietphrase.csprojResolveAssemblyReference.cache
+D:\NET Projects\Vietphrase\Vietphrase\obj\Debug\Vietphrase.Form1.resources
+D:\NET Projects\Vietphrase\Vietphrase\obj\Debug\Vietphrase.Properties.Resources.resources
+D:\NET Projects\Vietphrase\Vietphrase\obj\Debug\Vietphrase.csproj.GenerateResource.Cache
+D:\NET Projects\Vietphrase\Vietphrase\obj\Debug\Vietphrase.exe
+D:\NET Projects\Vietphrase\Vietphrase\obj\Debug\Vietphrase.pdb

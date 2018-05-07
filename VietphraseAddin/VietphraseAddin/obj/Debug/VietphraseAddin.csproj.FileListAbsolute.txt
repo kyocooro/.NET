@@ -1,0 +1,12 @@
+D:\NET Projects\VietphraseAddin\VietphraseAddin\bin\Debug\VietphraseAddin.dll
+D:\NET Projects\VietphraseAddin\VietphraseAddin\bin\Debug\VietphraseAddin.pdb
+D:\NET Projects\VietphraseAddin\VietphraseAddin\bin\Debug\VietphraseAddin.dll.manifest
+D:\NET Projects\VietphraseAddin\VietphraseAddin\bin\Debug\VietphraseAddin.vsto
+D:\NET Projects\VietphraseAddin\VietphraseAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\NET Projects\VietphraseAddin\VietphraseAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\NET Projects\VietphraseAddin\VietphraseAddin\obj\Debug\VietphraseAddin.Properties.Resources.resources
+D:\NET Projects\VietphraseAddin\VietphraseAddin\obj\Debug\VietphraseAddin.Ribbon1.resources
+D:\NET Projects\VietphraseAddin\VietphraseAddin\obj\Debug\VietphraseAddin.csproj.GenerateResource.Cache
+D:\NET Projects\VietphraseAddin\VietphraseAddin\obj\Debug\VietphraseAddin.dll
+D:\NET Projects\VietphraseAddin\VietphraseAddin\obj\Debug\VietphraseAddin.pdb
+D:\NET Projects\VietphraseAddin\VietphraseAddin\obj\Debug\VietphraseAddin.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\NET Projects\ChaoTes\ChaoTes\bin\Debug\ChaoTes.exe.config
+D:\NET Projects\ChaoTes\ChaoTes\bin\Debug\ChaoTes.exe
+D:\NET Projects\ChaoTes\ChaoTes\bin\Debug\ChaoTes.pdb
+D:\NET Projects\ChaoTes\ChaoTes\obj\Debug\ChaoTes.csprojResolveAssemblyReference.cache
+D:\NET Projects\ChaoTes\ChaoTes\obj\Debug\ChaoTes.exe
+D:\NET Projects\ChaoTes\ChaoTes\obj\Debug\ChaoTes.pdb

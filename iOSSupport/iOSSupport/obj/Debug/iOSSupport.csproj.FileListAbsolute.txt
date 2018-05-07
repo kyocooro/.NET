@@ -1,0 +1,12 @@
+D:\NET Projects\iOSSupport\iOSSupport\bin\Debug\iOSSupport.exe.config
+D:\NET Projects\iOSSupport\iOSSupport\bin\Debug\iOSSupport.exe
+D:\NET Projects\iOSSupport\iOSSupport\bin\Debug\iOSSupport.pdb
+D:\NET Projects\iOSSupport\iOSSupport\bin\Debug\Newtonsoft.Json.dll
+D:\NET Projects\iOSSupport\iOSSupport\bin\Debug\Newtonsoft.Json.pdb
+D:\NET Projects\iOSSupport\iOSSupport\bin\Debug\Newtonsoft.Json.xml
+D:\NET Projects\iOSSupport\iOSSupport\obj\Debug\iOSSupport.csprojResolveAssemblyReference.cache
+D:\NET Projects\iOSSupport\iOSSupport\obj\Debug\iOSSupport.Form1.resources
+D:\NET Projects\iOSSupport\iOSSupport\obj\Debug\iOSSupport.Properties.Resources.resources
+D:\NET Projects\iOSSupport\iOSSupport\obj\Debug\iOSSupport.csproj.GenerateResource.Cache
+D:\NET Projects\iOSSupport\iOSSupport\obj\Debug\iOSSupport.exe
+D:\NET Projects\iOSSupport\iOSSupport\obj\Debug\iOSSupport.pdb

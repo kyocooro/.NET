@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YahooAuction", "YahooAuction\YahooAuction.csproj", "{D9FD8EA1-8D8B-40F8-8A6D-EAE0F2F4FC1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9FD8EA1-8D8B-40F8-8A6D-EAE0F2F4FC1F}.Debug|x86.ActiveCfg = Debug|x86
+		{D9FD8EA1-8D8B-40F8-8A6D-EAE0F2F4FC1F}.Debug|x86.Build.0 = Debug|x86
+		{D9FD8EA1-8D8B-40F8-8A6D-EAE0F2F4FC1F}.Release|x86.ActiveCfg = Release|x86
+		{D9FD8EA1-8D8B-40F8-8A6D-EAE0F2F4FC1F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
